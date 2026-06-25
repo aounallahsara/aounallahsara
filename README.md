@@ -41,7 +41,7 @@ Passionate about building intelligent systems, scalable applications, and AI-pow
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ### Mobile Development
@@ -53,7 +53,7 @@ Passionate about building intelligent systems, scalable applications, and AI-pow
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mssql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Technologies
