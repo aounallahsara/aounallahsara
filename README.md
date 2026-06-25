@@ -82,7 +82,7 @@ AI-powered recruitment platform featuring:
 
 ### 🛒 Multi-Vendor Marketplace
 
-Mobile marketplace application built using Flutter and Odoo.
+Mobile marketplace application built using Flutter .
 
 Features:
 
