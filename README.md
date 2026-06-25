@@ -20,8 +20,7 @@ Passionate about building intelligent systems, scalable applications, and AI-pow
 - Computer Vision
 - NLP
 - Data Science
-- Cybersecurity
-- Digital Forensics
+
 
 🔭 Currently working on:
 - AI-powered applications
